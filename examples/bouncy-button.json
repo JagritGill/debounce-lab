@@ -1,0 +1,15 @@
+{
+  "name": "A bouncy press and release",
+  "duration_ms": 160,
+  "initial_level": 0,
+  "edges": [
+    {"at_ms": 10, "level": 1},
+    {"at_ms": 12, "level": 0},
+    {"at_ms": 15, "level": 1},
+    {"at_ms": 17, "level": 0},
+    {"at_ms": 20, "level": 1},
+    {"at_ms": 100, "level": 0},
+    {"at_ms": 103, "level": 1},
+    {"at_ms": 106, "level": 0}
+  ]
+}

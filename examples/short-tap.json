@@ -1,0 +1,9 @@
+{
+  "name": "A short tap exposes the lockout tradeoff",
+  "duration_ms": 60,
+  "initial_level": 0,
+  "edges": [
+    {"at_ms": 10, "level": 1},
+    {"at_ms": 15, "level": 0}
+  ]
+}

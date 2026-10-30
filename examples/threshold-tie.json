@@ -1,0 +1,9 @@
+{
+  "name": "An input edge wins a timer tie",
+  "duration_ms": 50,
+  "initial_level": 0,
+  "edges": [
+    {"at_ms": 10, "level": 1},
+    {"at_ms": 22, "level": 0}
+  ]
+}
