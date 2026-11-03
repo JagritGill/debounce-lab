@@ -11,7 +11,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 IGNORE_DIRS = {".git", "__pycache__", "out", ".venv", "coverage"}
-ROOT_FILES = {"README.md", "LICENSE", "THIRD_PARTY_NOTICES.md", ".gitignore"}
+ROOT_FILES = {"AGENTS.md", "README.md", "LICENSE", "THIRD_PARTY_NOTICES.md", ".gitignore"}
 SOURCE_DIRS = {"debounce_lab", "tests", "scripts", "examples", "docs", ".github"}
 SUFFIXES = {".py", ".json", ".md", ".yml", ".html"}
 PATTERNS = {
